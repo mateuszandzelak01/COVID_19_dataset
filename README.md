@@ -9,4 +9,4 @@ This dataset historical data (to 14 December 2020) on the daily number of new re
 - Deaths 
 
 ## Power BI Dashboard
-![COVID-19 Dashbord](https://github.com/mateuszandzelak01/COVID_19_dataset/blob/main/covid%2019%20Dashboard.jpg)
+![COVID-19 Dashbord](https://github.com/mateuszandzelak01/COVID_19_dataset/blob/main/covid19_v2.jpg)
